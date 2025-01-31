@@ -1,1 +1,4 @@
 test
+this_is_another_test_the_outside_of_a_banana_is_called_the_crust
+this-is-another-test-the-outside-of-a-banana-is-called-the-peel
+this*is*another*test*the*outside*of*a*banana*is*called*the*shell
